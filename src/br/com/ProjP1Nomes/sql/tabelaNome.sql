@@ -1,0 +1,4 @@
+CREATE TABLE `opt`.`nome` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `nome` VARCHAR(200) CHARACTER SET 'utf8' NOT NULL,
+  PRIMARY KEY (`id`));
